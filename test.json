@@ -1,0 +1,30 @@
+[
+ {
+ "product_id": "BTC-USD",
+ "price": 8461.8655565063
+ },
+ {
+ "product_id": "BTC-PLN",
+ "price": "28871.87695312"
+ },
+ {
+ "product_id": "ETH-BTC",
+ "price": "0.09933557"
+ },
+ {
+ "product_id": "EUR-PLN",
+ "price": "4.17316294"
+ },
+ {
+ "product_id": "EUR-USD",
+ "price": "1.22308445"
+ },
+ {
+ "product_id": "KRW-PLN",
+ "price": "0.00312557"
+ },
+ {
+ "product_id": "BTG-BTC",
+ "price": "0.01326067"
+ }
+]
